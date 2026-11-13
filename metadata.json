@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Sir's Classroom — Unified Academic Library",
+  "description": "One unified multi-subject engineering learning platform covering all 34 attached academic files across CSM, CSE (AI & ML), ECE, IT, and Archive resources with 10-step lessons, source traceability, global search, and interactive simulators.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
